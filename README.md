@@ -1,5 +1,3 @@
-THIS IS A WORK IN PROGRESS – THIS IS NOT A FINISHED PRODUCT
-
 The objective of this application is to educate a guitar player the multiple varieties he or she can play a scale. The scales currently presented by this application are the seven modes. For those who do not know, the modes are the following:
 
 Ionian (I) [Major]
